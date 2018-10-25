@@ -60,3 +60,10 @@ void UITRASONIC(){               // 초음파
   Serial.println(distance);
   delay(200);
 }
+
+
+/**
+조대리, 4칙 연산을 할 수 있는 함수를 4개를 만들어서 함수명을(addition, subtraction, multiplication, division)이라고 하고, 
+시리얼 포트 화면에서 2개의 정수를 입력 받아서, 그 결과값을 시리얼 화면에서 보여주는 코드를 만들어봐.
+숙제임.
+*/
